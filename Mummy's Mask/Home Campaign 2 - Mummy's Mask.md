@@ -1,4 +1,4 @@
-This is our second campaign with [[BSDM]] started in December 2024
+This is our second campaign with [[Index]] started in December 2024
 
 The characters from far and wide came to the city of [[Wati]] known as the [[Wati|Half Dead City]] in the southern country of [[Osirion]] in the world of Golarion.
 
