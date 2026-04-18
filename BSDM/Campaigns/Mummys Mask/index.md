@@ -23,14 +23,14 @@ The characters came from far and wide to the city of [[World/Wati|Wati]], known 
 
 ## Players & Characters
 
-| Character | Race | Class | Player |
-|-----------|------|-------|--------|
-| [[Characters/Blade Redpool\|Blade Redpool]] | Aasimar | Bloodrager (Primalist) | — |
-| [[Characters/Shavrak\|Shavrak Asha]] | Half-Elf | Summoner | [[Players/Sean\|Sean]] |
-| [[Characters/Lishka\|Lishka]] | Kitsune | Druid | — |
-| [[Characters/Ivorsan\|Ivorsan]] | Human | Cleric | — |
-| [[Characters/Reichelle Marthot\|Reichelle Marthot]] | Human | Fighter (Archer) | — |
-| [[Characters/Zandar Milos\|Zandar Milos]] | Human | Sorcerer (Tattooed Sorcerer) | — |
+| Character                                           | Race     | Class                        | Player                 |
+| --------------------------------------------------- | -------- | ---------------------------- | ---------------------- |
+| [[Characters/Blade Redpool\|Blade Redpool]]         | Aasimar  | Bloodrager (Primalist)       | [[Pete]]               |
+| [[Characters/Shavrak\|Shavrak Asha]]                | Half-Elf | Summoner                     | [[Players/Sean\|Sean]] |
+| [[Characters/Lishka\|Lishka]]                       | Kitsune  | Druid                        | [[Marianne]]           |
+| [[Characters/Ivorsan\|Ivorsan]]                     | Human    | Cleric                       | [[Daniel]]             |
+| [[Characters/Reichelle Marthot\|Reichelle Marthot]] | Human    | Fighter (Archer)             | [[Leah]]               |
+| [[Characters/Zandar Milos\|Zandar Milos]]           | Human    | Sorcerer (Tattooed Sorcerer) | [[Robert]]             |
 
 ---
 

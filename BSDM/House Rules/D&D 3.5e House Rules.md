@@ -56,7 +56,7 @@ On a natural 1 attack roll, a fumble may occur. Results are determined by the **
 
 ## Bartering
 
-When haggling with a merchant, use an **opposed Diplomacy check**. The difference in the check results equals the percentage discount (or markup) applied to the set price for that item in the local vicinity.
+When haggling with a merchant, use an **opposed Diplomacy check**. The difference in the check results equals the percentage discount (or markup) applied to the set price for that item in the local vicinity. If such exists.
 
 ---
 
