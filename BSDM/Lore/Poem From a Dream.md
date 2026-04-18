@@ -1,3 +1,14 @@
+---
+title: Poem From a Dream
+tags: [lore, toee, prophecy]
+---
+
+# Poem From a Dream
+
+*A prophecy associated with the [[../Campaigns/Temple of Elemental Evil/index|Temple of Elemental Evil]] campaign.*
+
+---
+
 The Two united, in the past,
 a Place to build, and spells to cast.
 Their power grew, and took the land
