@@ -52,4 +52,4 @@ The characters came from far and wide to the city of [[World/Wati|Wati]], known 
 
 ## House Rules
 
-[[../../House Rules/Pathfinder 1e House Rules|Pathfinder 1e House Rules]]
+[[Pathfinder 1e House Rules|Pathfinder 1e House Rules]]
