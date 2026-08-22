@@ -5,7 +5,7 @@ tags: [lore, toee, prophecy]
 
 # Poem From a Dream
 
-*A prophecy associated with the [[../Campaigns/Temple of Elemental Evil/index|Temple of Elemental Evil]] campaign.*
+*A prophecy associated with the [[Campaigns/Temple of Elemental Evil/index|Temple of Elemental Evil]] campaign.*
 
 ---
 
